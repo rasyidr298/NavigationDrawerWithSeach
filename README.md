@@ -3,6 +3,7 @@ NavigationDrawer with recycler &amp; search item
 
 - NavigationDrawer
 - RecyclerView
+- Grid Layout
 - Local Data
 - Search item
 - Click Event
